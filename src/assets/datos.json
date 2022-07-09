@@ -1,0 +1,17 @@
+{
+
+    "estudios":[
+
+           {"institucion":"UNSa",
+            "anio":"2007",
+            "lugar":"Salta"
+           },
+           {
+            "institucion":"UNT",
+            "anio":"2013",
+            "lugar":"Tucumán"
+           }
+
+    ]
+
+}

@@ -1,0 +1,71 @@
+{
+    "name":"Enzo Tita Dolce",
+    "nacimiento":{        
+            "lugar":"Salta Capital, Salta, Argentina",
+            "fecha":"2 de febrero de 1989"        
+    },
+    "titulo1":"Técnico Universitario en Física",
+    "titulo2":"Programador PHP y MySql",
+    "residencia":"Túcuman, Argentina",
+    "cargo":"Auxiliar Docente",
+    "estudiosPyS": {
+        "primarios":"Col. Ntra. Sra. María del Pilar",
+        "secundarios":"Bachillerato Integral 'Raúl Scalabrini Ortiz'"
+    },
+    "estudios":[       
+        {
+            "institucion":"Universidad Nacional de Salta",
+            "anio":"2007-2012",
+            "carrera":"Analista Químico"
+        },
+        {
+            "institucion":"Universidad Nacional de Tucumán",
+            "anio":"2013-2016",
+            "carrera":"Bioquímica"
+        },
+        {
+            "institucion":"Universidad Nacional de Tucumán",
+            "anio":"2016-Actualidad",
+            "carrera":"Técnicatura Universitaria en Física"
+        }
+    ],
+    "experiencia":[
+        {
+        "institucion":"Universidad Nacional de Túcuman",
+        "anio":"2017-Actualidad",
+        "cargo":"Auxiliar Docente"
+        },
+        {
+        "institucion":"Instituto Privado Cura Brochero",
+        "anio":"2019",
+        "cargo":"Profesor Suplente"
+        },
+        {
+        "institucion":"ARNET",
+        "anio":"2010",
+        "cargo":"Técnico Instalador"
+        },
+        {
+        "institucion":"Profesor Particular",
+        "anio":"2014-Actualidad",
+        "cargo":"Profesor Particular"
+        }
+    ],
+    "intereses":[
+        "Robótica","Programación","Física","Ciencias en gral","Docencia","Divulgación"
+    ],
+    "contacto":{
+        "facebook":"Giancarlo Dolche",
+        "instagram":"enzo.titadolce",
+        "whatsapp":"+5493816121337"
+    },
+    "imagenes":{
+        "eliminar":"./assets/img/borrar.png",
+        "editar":"./assets/img/editar.png",
+        "perfil":"./assets/img/perfil.jpg",
+        "portada":"./assets/img/portada.jpg",
+        "facebook":"./assets/img/face_logo.png",
+        "instagram":"./assets/img/instagram.png",
+        "whatsapp":"./assets/img/whatsapp.png"
+    }
+}
